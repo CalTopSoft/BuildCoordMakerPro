@@ -7,46 +7,6 @@
       "id": 1,
       "titulo": "Persistencia de posición en la lista de elementos",
       "descripcion": "La lista del panel ahora conserva la posición del scroll al actualizarse, evitando que vuelva al inicio."
-    },
-    {
-      "id": 2,
-      "titulo": "Ajuste automático a bordes del lienzo",
-      "descripcion": "Los elementos se alinean automáticamente a los bordes (izquierda, derecha, arriba y abajo) al acercarse, manteniendo un movimiento fluido."
-    },
-    {
-      "id": 3,
-      "titulo": "Ajuste a bordes con múltiples elementos",
-      "descripcion": "El ajuste también funciona al mover varios elementos al mismo tiempo, manteniendo la alineación del conjunto."
-    },
-    {
-      "id": 4,
-      "titulo": "Ajuste automático al centro del lienzo",
-      "descripcion": "Permite centrar elementos fácilmente, tanto de forma individual como en grupo."
-    },
-    {
-      "id": 5,
-      "titulo": "Duplicado de proyectos",
-      "descripcion": "Se añadió un botón para duplicar proyectos desde el dashboard, creando una copia independiente sin afectar el original."
-    },
-    {
-      "id": 6,
-      "titulo": "Mejoras en sombras, bordes y renderizado",
-      "descripcion": "Se corrigieron problemas de sombras, bordes y exportación, logrando mayor fidelidad visual, mejor suavizado y un comportamiento correcto del reset de estilos."
-    },
-    {
-      "id": 7,
-      "titulo": "Visualización de textos en el panel",
-      "descripcion": "Los textos ahora se muestran siempre en una sola línea dentro del panel de elementos, incluso si tienen saltos de línea."
-    },
-    {
-      "id": 8,
-      "titulo": "Mejoras en propiedades y estilos de texto",
-      "descripcion": "Se añadieron controles completos para selección múltiple con confirmación antes de aplicar cambios, y botones para copiar/pegar estilos de texto entre elementos."
-    },
-    {
-      "id": 9,
-      "titulo": "Verificación de actualizaciones",
-      "descripcion": "Se implementó un sistema que, al iniciar la aplicación, verifica si existe una nueva versión disponible y muestra una ventana con la información y opciones para actualizar."
     }
   ]
 }
